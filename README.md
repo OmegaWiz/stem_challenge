@@ -26,8 +26,8 @@ This project is part of the course in Mahidol Wittayanusorn School.
 1. Clone the repo
 
    ```sh
-   git clone https://github.com/mwit30-8/MVIS.git
-   cd MVIS
+   git clone https://github.com/OmegaWiz/stem_challenge
+   cd stem_challenge
    ```
 
 2. Run DGraph locally at <http://localhost:8080/graphql>
